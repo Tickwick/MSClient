@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Kupo",
+    "Name": "MS Client",
+    "Punchline": "Nothing to see here",
+    "Description": "Makes things go beep boop.",
+    "Tags": [
+      "Customization"
+    ],
+    "InternalName": "MSClient",
+    "AssemblyVersion": "1.12.0",
+    "TestingAssemblyVersion": "1.12.0",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1,
+    "LastUpdate": 1618608322,
+    "DownloadLinkInstall": "",
+    "DownloadLinkUpdate": "",
+    "DownloadLinkTesting": "",
+    "IconUrl": "https://raw.githubusercontent.com/sharyex/mare.client/refs/heads/main/MareSynchronos/images/icon.png"
+  }
+]
