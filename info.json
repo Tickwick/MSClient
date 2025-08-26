@@ -8,8 +8,8 @@
       "Customization"
     ],
     "InternalName": "MSClient",
-    "AssemblyVersion": "1.12.0",
-    "TestingAssemblyVersion": "1.12.0",
+    "AssemblyVersion": "1.13.0",
+    "TestingAssemblyVersion": "1.13.0",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
