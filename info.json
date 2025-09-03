@@ -8,8 +8,8 @@
       "Customization"
     ],
     "InternalName": "MSClient",
-    "AssemblyVersion": "1.13.1",
-    "TestingAssemblyVersion": "1.13.1",
+    "AssemblyVersion": "1.13.2",
+    "TestingAssemblyVersion": "1.13.2",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -17,10 +17,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
-    "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/Tickwick/MSClient/releases/download/1.13.1/MSClient.zip",
-    "DownloadLinkUpdate": "https://github.com/Tickwick/MSClient/releases/download/1.13.1/MSClient.zip",
-    "DownloadLinkTesting": "https://github.com/Tickwick/MSClient/releases/download/1.13.1/MSClient.zip",
+    "LastUpdate": 1756876156,
+    "DownloadLinkInstall": "https://github.com/Tickwick/MSClient/releases/download/1.13.2/MSClient.zip",
+    "DownloadLinkUpdate": "https://github.com/Tickwick/MSClient/releases/download/1.13.2/MSClient.zip",
+    "DownloadLinkTesting": "https://github.com/Tickwick/MSClient/releases/download/1.13.2/MSClient.zip",
     "IconUrl": "https://raw.githubusercontent.com/sharyex/mare.client/refs/heads/main/MareSynchronos/images/icon.png"
   }
 ]
